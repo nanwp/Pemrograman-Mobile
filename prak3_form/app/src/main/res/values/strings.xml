@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">prak3_form</string>
+    <string-array name="pilihanProdi">
+        <item>Akutansi</item>
+        <item>Ekowisata</item>
+        <item>Komunikasi</item>
+        <item>Teknologi Rekayasa Komputer</item>
+        <item>Teknologi Rekayasa Perangkat Lunak</item>
+    </string-array>
+    <string-array name="pilihanAgama">
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Hindu</item>
+        <item>Budha</item>
+        <item>Atheis</item>
+    </string-array>
+</resources>
